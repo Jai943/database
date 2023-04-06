@@ -1,4 +1,0 @@
-# utadb
-database_grad_project
-THERE ARE 5 PHASES TO THIS PROJECT 
-- PLEASE GO THROUGHT FILES AND REPORT
